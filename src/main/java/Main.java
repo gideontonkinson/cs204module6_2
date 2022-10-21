@@ -29,6 +29,7 @@ public class Main {
                     System.out.println("Answer: " + c.subtract(a,b));
                     break;
                 case "multiply":
+                    System.out.println("Answer: " + c.multiply(a,b));
                     break;
                 case "divide":
                     if(b == 0){
