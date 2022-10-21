@@ -80,6 +80,7 @@ class Calculator {
             ending += (char) (random.nextInt(26) + 'a');
         }
         return n + ending;
+        
     }
 
 
